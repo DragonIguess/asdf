@@ -1,6 +1,3 @@
-
-EJS_AdUrl = 'https://burritoedition.com/src/p/ad.html'
-
 var scriptTag = document.getElementsByTagName('script')[0]
 var emu_main = document.createElement('script')
 emu_main.src = function() {
